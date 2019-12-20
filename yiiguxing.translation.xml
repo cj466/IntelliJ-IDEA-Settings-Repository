@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="last block incomplete in decryption" />
+      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project laugh-common: Failed to deploy artifacts: Could not transfer artifact com.duan:laugh-common:pom:1.1 from/to ciic-releases (http://47.92.110.236:8666/repository/ciic-releases/): Failed to transfer file http://47.92.110.236:8666/repository/ciic-releases/com/duan/laugh-common/1.1/laugh-common-1.1.pom with status code 401" />
+      <item value="Failure to find com.duan:laugh-common:pom:1.0 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced" />
+      <item value="special" />
+      <item value="code" />
+      <item value="Creates a &lt;i&gt;mutable&lt;/i&gt;, empty {@code HashMap} instance. * * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; if mutability is not required, use {@link * ImmutableMap#of()} instead. * * &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; if {@code K} is an {@code enum} type, use {@link * #newEnumMap} instead. * * &lt;p&gt;&lt;b&gt;Note for Java 7 and later:&lt;/b&gt; this method is now unnecessary and * should be treated as deprecated. Instead, use the {@code HashMap} * constructor directly, taking advantage of the new * &lt;a href=&quot;http://goo.gl/iz2Wi&quot;&gt;&quot;diamond&quot; syntax&lt;/a&gt;." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/bow" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/ciic-cloud-file" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/ciic-cloud-message" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/ciic-cloud-msg" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/ciic-cloud-org" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/ciic/ciic-cloud-upms" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/else/CJUtils" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/else/spring-boot-demo-codegen" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/laugh" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/mainstay/mainstay-accounting" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/mainstay/mainstay-org" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/mainstay/mainstay-product" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/mainstay/mainstay-task" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Documents/developer/IdeaProjects/mainstay/mainstay-upms" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Downloads/demo" firstStartUp="false" />
+  </component>
+</application>
