@@ -34,9 +34,17 @@
           <option name="url" value="https://github.com/cj466/CJUtils.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.howdohr.com:ciic/ciic-cloud-event.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.92.110.236:6688/ciic/ciic-cloud-event.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/developer/IdeaProjects/else" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/developer/IdeaProjects/ciic" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
