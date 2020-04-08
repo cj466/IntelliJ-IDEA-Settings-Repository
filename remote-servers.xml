@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker-remote" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://39.98.83.139:7654" />
+        <option name="apiUrl" value="tcp://39.98.83.139:2376" />
       </configuration>
     </remote-server>
     <remote-server name="Docker-laugh" type="docker">
