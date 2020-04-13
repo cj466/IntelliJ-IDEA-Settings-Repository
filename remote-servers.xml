@@ -12,7 +12,7 @@
     </remote-server>
     <remote-server name="Docker-ciic" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://39.107.225.92:2376" />
+        <option name="apiUrl" value="tcp://47.95.8.75:2376" />
       </configuration>
     </remote-server>
   </component>
