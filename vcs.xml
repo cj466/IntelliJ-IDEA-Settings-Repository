@@ -66,6 +66,10 @@
           <option name="url" value="http://47.92.110.236:6688/ciic/insight-hr" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.howdohr.com/ciic/ciic-cloud-salary.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/developer/IdeaProjects/ciic" />
